@@ -1,0 +1,1 @@
+Biblioteca virtual usando somente Bootstrap. No site coloquei logo, listei os livros por gêneros, adicionei um menu sanduíche, além de links que ao clicados abrem outra página com o target_blank e vão para página de compra da Amazon.
